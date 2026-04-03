@@ -42,7 +42,7 @@ AWS • GCP • Docker • Kubernetes • Podman • Terraform
 Kafka • Prometheus • Grafana • Airflow  
 
 **Developer Tools:**  
-Maven • IntelliJ IDEA • Git • GitHub  
+Maven • IntelliJ IDEA • Git • Cursor  
 
 ---
 
