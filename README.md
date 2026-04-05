@@ -10,7 +10,7 @@
 - ⚙️ Strong in **Java (Spring Boot)** and **Golang**  
 - 🛠️ Experienced with **microservices architecture**, REST APIs, and system design
 - 🔍 Interested in **system design, observability, and scalable systems**  
-- ☸️ Currently exploring **Kubernetes, Docker, and Helm**  
+- ☸️ Proficient in **Kubernetes, Docker, and Helm**  
 - 🤖 Learning **LangChain / AI-powered backend systems**  
 
 ---
