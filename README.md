@@ -18,7 +18,7 @@
 ## 🧠 What I’m Currently Working On
 
 - Building **distributed systems projects in Golang**  
-- Exploring **logging pipelines (collector → OpenSearch)**  
+- Exploring **logging pipelines**  
 - Designing **real-world scalable backend architectures**  
 - Learning **Kubernetes internals & Helm-based deployments**  
 
